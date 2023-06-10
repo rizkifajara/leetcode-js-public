@@ -1,7 +1,7 @@
 # Leetcode JS Submissions
 
-**Personal Use Only**
+**Educational Use Only**
 
-Might be updated in the future to improve performance, but most likely not.
+Might be updated in the future to improve performance.
 
 Will update the file to give comments and explanation
